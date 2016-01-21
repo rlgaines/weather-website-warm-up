@@ -1,0 +1,58 @@
+body {
+    background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQG2bBf2IAUuNRB5kPUL3Qz0ZLUQj3mIkB1aCth7TzeWj2Bok5XHw");
+    background-color: #cccccc;
+    image-orientation: 100%;
+
+}
+
+body{
+  background-color: lightblue;
+}
+
+section{
+  background-color: white;
+  height: 600px;
+  width: 1000px;
+  margin-left: 15%;
+  position: absolute;
+  opacity: .9;
+
+}
+
+.words{
+  margin: auto;
+  margin-left: 300px;
+  margin-top: 150px;
+  opacity: .9;
+
+}
+
+.buttons{
+  margin-top: 100px;
+  margin-left: 200px;
+  opacity: .9;
+
+
+
+}
+
+
+#text{
+  width: 500px;
+  height: 40px;
+  border-radius: 25px;
+  margin: auto;
+  opacity: 1
+}
+
+#submit {
+  width: 500px;
+  height: 40px;
+  border-radius: 25px;
+  margin-top: 5px;
+  background-color: black;
+  margin: auto;
+  position: relative;
+  color: white;
+  outline: 1;
+  }
